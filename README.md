@@ -10,7 +10,7 @@
 | **Title**         | Python Examples     |
 | -- | -- |
 | **Author**        | Alexander Kapitanov |
-| **Contact**       | sallador@bk.ru      |
+| **Contact**       | <hidden>            |
 | **Release Date**  | 15 May 2019         |
 | **License**       | GNU GPL 3.0         |
 
